@@ -45,8 +45,6 @@ public class TouchDelegateFix extends TouchDelegate {
         mDelegateView = delegateView;
     }
 
-
-
     /**
      * Will forward touch events to the delegate view if the event is within the bounds
      * specified in the constructor.
